@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20098
-Fork on GitHub6075
 <h1 align="center">Hi 👋, I'm Denis Crăsnean</h1>
 <h3 align="center">I'm a self-taught full-stack developer working with PHP, Symfony, MySQL, Javascript, Vue.js.</h3>
 
